@@ -1,3 +1,7 @@
 [submodule "nestjs"]
 	path = nestjs
 	url = https://github.com/JhonnK08/imersao-full-cycle-nestjs
+
+[submodule "nextjs"]
+	path = nextjs
+	url = https://github.com/JhonnK08/imersao-full-cycle-nextjs
